@@ -208,3 +208,15 @@ while True:
     
     pygame.display.update()
     clock.tick(FPS)
+
+'''
+THIS IS A RANDOM COMMENT
+dahgkahgka hfalkgalkshgakhASHFKAHFKAHSGKASHGKAS
+ASLFHSKHFALK ASFHASKF
+AJSFHKASHFLKASF
+SKAFHLKASJFLASJ
+
+
+AFSKLFJALSHFLKASJFLASJF;AJSF
+KSFAKJ
+'''
